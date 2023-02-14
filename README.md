@@ -11,7 +11,7 @@ Started web dev 10 years ago as HTML / CSS / JS Front end Designer and learned J
 * ✉️  You can contact me at [hello@digiiit.com](mailto:hello@digiiit.com)
 * 🧠  I'm learning Vuejs 3, Tailwindcss, TypeScript
 * 🤝  I'm open to collaborating on web projets based on vuejs and Laravel
-* ⚡  I'm a piranha fish fan
+* ⚡  I'm a piranha fish fan and a NES Game Collector fanatic
 
 ### Skills
 
