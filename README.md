@@ -4,14 +4,14 @@ Hi 👋 My name is Emmanuel Autin
 I'm a front-end developer
 -------------------------
 
-Started web dev 10 years ago as HTML / CSS / JS Front end Designer and learned JavaScript (still learning new stuff everyday...). Now I'm working with Vue.js and Laravel and I love create web applications.
+Started web dev 10 years ago as a Frontend Designer and learned JavaScript (Still learning new ES6+ stuff everyday...). Now I'm working with Vue.js and Laravel and I love create web applications.
 
 * 🌍  I'm based in France near Paris
 * 🖥️  See my portfolio at [Digiiit.com](http://www.digiiit.com)
 * ✉️  You can contact me at [hello@digiiit.com](mailto:hello@digiiit.com)
 * 🧠  I'm learning Vuejs 3, Tailwindcss, TypeScript
 * 🤝  I'm open to collaborating on web projets based on vuejs and Laravel
-* ⚡  I'm a piranha fish fan and a NES Game Collector fanatic
+* ⚡  I'm a piranha Fish fan and a NES Game Collector fanatic
 
 ### Skills
 
