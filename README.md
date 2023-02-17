@@ -4,7 +4,7 @@ Hi 👋 My name is Emmanuel Autin
 I'm a front-end developer
 -------------------------
 
-Working on the web since 2013 as a web integrator HTML / CSS and in 2017, started learning deep JavaScript. Now I'm working with Vue.js and Laravel. 
+Working on the web as a front end developer. I'm working with Vue.js and Laravel. 
 
 * 🌍  I'm based in France near Paris
 * 🖥️  I'm working principally with Vue.js and Laravel
