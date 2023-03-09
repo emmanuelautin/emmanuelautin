@@ -1,7 +1,7 @@
 Hi 👋 My name is Emmanuel Autin
 ===============================
 
-I'm a PHP / Js Developer
+I'm a PHP / JavaScript Developer
 -------------------------
 
  Travelling on the web as a fullstack web developer. 
