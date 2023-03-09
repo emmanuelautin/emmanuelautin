@@ -1,16 +1,17 @@
 Hi 👋 My name is Emmanuel Autin
 ===============================
 
-I'm a front-end developer
+I'm a PHP / Js Developer
 -------------------------
 
-Working on the web as a front end developer. I'm working with Vue.js and Laravel. 
+ Travelling on the web as a fullstack web developer. 
 
 * 🌍  I'm based in France near Paris
-* 🖥️  I'm working principally with Vue.js and Laravel
+* 🖥️  I'm coding principally with Vue.js and Laravel (PHP) but I also work with
+ PrestaShop and WordPress
 * ✉️  You can contact me at [hello@digiiit.com](mailto:hello@digiiit.com)
 * 🧠  I'm learning Vuejs 3, Tailwindcss, TypeScript, Laravel 10 new stuff
-* 🤝  I'm open to work as a Vue.Js front-end dev! 
+* 🤝  I'm open to work as a Vue.Js front-end dev or Fullstack Laravel / Vue.js dev ! 
 
 
 ### Skills
