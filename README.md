@@ -8,10 +8,10 @@ I'm a PHP / Js Developer
 
 * 🌍  I'm based in France near Paris
 * 🖥️  I'm coding principally with Vue.js and Laravel (PHP) but I also work with
- PrestaShop and WordPress
+ PrestaShop and WordPress and old legacy PHP code with jQuery :) 
 * ✉️  You can contact me at [hello@digiiit.com](mailto:hello@digiiit.com)
 * 🧠  I'm learning Vuejs 3, Tailwindcss, TypeScript, Laravel 10 new stuff
-* 🤝  I'm open to work as a Vue.Js front-end dev or Fullstack Laravel / Vue.js dev ! 
+* 🤝  I'm open to work as a Vue.Js front-end dev or Fullstack PHP / MySQL / JavaScript dev ! 
 
 
 ### Skills
