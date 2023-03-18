@@ -2,7 +2,6 @@ Hi 👋 My name is Emmanuel Autin
 ===============================
 
 I'm a web developer and owner of digiiit.com
-Digiit.com provides developement, infogerance, and maintenance service
 -------------------------
 
 * 🌍  I'm based in France near Paris
