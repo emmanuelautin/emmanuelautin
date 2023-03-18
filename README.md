@@ -5,9 +5,9 @@ I'm a web developer and owner of digiiit.com
 -------------------------
 
 * 🌍  I'm based in France near Paris
-* 🖥️  I'm working on Linux / Apache / Nginx / MySQL (Lamp stack) and Node.js environnement with PHP JavaScript XHTML HTML5 CSS3
+* 🖥️  I'm working mainly on LAMP stack (Linux Apache MySql Php)
 * ✉️  You can contact me at [hello@digiiit.com](mailto:hello@digiiit.com)
-* 🧠  WordPress, Prestashop, Laravel, Vue.js, Bootstrap...
+* 🧠  Environnement : PHP, MySQL, JavaScript, WordPress, Prestashop, Laravel, Vue.js, Bootstrap...
 
 
 ### Skills
