@@ -5,7 +5,7 @@ I'm a web developer
 -------------------------
 
 * 🌍  I'm based in France near Paris
-* 🖥️  I'm working on Linux / Apache / Nginx / MySQL (Lamp) and Node.js environnement with PHP JavaScript XHTML HTML5 CSS3
+* 🖥️  I'm working on Linux / Apache / Nginx / MySQL (Lamp stack) and Node.js environnement with PHP JavaScript XHTML HTML5 CSS3
 * ✉️  You can contact me at [hello@digiiit.com](mailto:hello@digiiit.com)
 * 🧠  I'm learning Vuejs 3, Tailwindcss, TypeScript, Laravel 10 new stuff
 * 🤝  I'm open to work as a web developer
